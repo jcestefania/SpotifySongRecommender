@@ -1,4 +1,4 @@
-# SpotifySongRecommender
+# Analizador de Canciones
 
 Este proyecto presenta una implementación básica de un analizador de canciones en C++. El analizador permite realizar diferentes acciones relacionadas con las canciones, como la recomendación de canciones y artistas, así como la generación de rankings.
 

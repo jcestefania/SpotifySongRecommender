@@ -1,0 +1,54 @@
+Position   Artist Name   Song Name   Days   Top 10 (xTimes)   Peak Position   Peak Streams   Total Streams   Genre
+1   Post Malone    Sunflower  SpiderMan: Into the Spider-Verse   1506   302.0   1   2118242   883369738   RAP
+2   Juice WRLD    Lucid Dreams   1673   178.0   1   2127668   864832399   RAP
+3   Lil Uzi Vert    XO TOUR Llif3   1853   212.0   1   1660502   781153024   RAP
+4   J. Cole    No Role Modelz   2547   6.0   7   659366   734857487   RAP
+5   Post Malone    rockstar   1223   186.0   1   2905678   718865961   RAP
+6   Travis Scott    goosebumps   1995   4.0   8   977275   672972704   RAP
+7   The Weeknd    Blinding Lights   1100   233.0   1   2355059   644287953   POP
+8   XXXTENTACION    Jocelyn Flores   1673   44.0   2   3175206   624457164   RAP
+9   XXXTENTACION    SAD!   1217   133.0   1   4437612   619879245   RAP
+10   Juice WRLD    All Girls Are The Same   1681   2.0   5   1239152   613872384   RAP
+11   Kendrick Lamar    HUMBLE.   1175   152.0   1   4060034   606305588   RAP
+12   Post Malone    Circles   1172   163.0   1   3441328   598521764   RAP
+13   Travis Scott    SICKO MODE   1046   190.0   1   4129691   586638599   RAP
+14   Lil Baby    Drip Too Hard (Lil Baby & Gunna)   1453   122.0   1   1759294   583443174   RAP
+15   Post Malone    Congratulations   1215   136.0   5   1263208   546036924   RAP
+16   Post Malone    I Fall Apart   1278   132.0   2   1275320   543144261   RAP
+17   Glass Animals    Heat Waves   763   248.0   1   1230046   540754791   INDIE
+18   Drake    God's Plan   634   139.0   1   4739798   534994242   RAP
+19   Roddy Ricch    The Box   650   197.0   1   3781452   504210201   RAP
+20   J. Cole    MIDDLE CHILD   1119   106.0   1   3800251   481985952   RAP
+21   XXXTENTACION    Fuck Love   1406   9.0   5   2438715   473417295   RAP
+22   Post Malone    Better Now   862   72.0   1   3467168   463551468   RAP
+23   Drake    One Dance   772   187.0   1   2767175   454267392   RAP
+24   Olivia Rodrigo    good 4 u   547   187.0   1   4974833   454100610   POP
+25   Juice WRLD    Robbery   1086   38.0   2   1724447   443773199   RAP
+26   Billie Eilish    lovely   1250   0.0   18   733267   437911914   POP
+27   Joji    SLOW DANCING IN THE DARK   1496   0.0   26   661274   437333177   SOUL
+28   XXXTENTACION    Moonlight   923   57.0   2   3167290   431568186   RAP
+29   Offset    Ric Flair Drip (& Metro Boomin)   1065   86.0   4   1040394   427614856   RAP
+30   The Kid LAROI    Stay   531   271.0   1   2345292   426712325   RAP
+31   Lewis Capaldi    Someone You Loved   952   40.0   5   1118953   410725370   POP
+32   Harry Styles    Watermelon Sugar   988   65.0   3   1609066   409073262   POP
+33   Post Malone    Wow.   699   115.0   1   2317682   405812776   RAP
+34   Khalid    Location   999   29.0   9   958542   403645089   SOUL
+35   The Neighbourhood    Sweater Weather   1050   0.0   12   671844   400804036   INDIE
+36   Lil Baby    Yes Indeed   970   43.0   2   1838350   400193604   RAP
+37   The Chainsmokers    Closer   696   158.0   1   2504045   397735618   POP
+38   Post Malone    Psycho   607   107.0   1   3261937   396525691   RAP
+39   The Weeknd    The Hills   1243   194.0   1   1147436   392023505   POP
+40   Dua Lipa    Levitating   738   113.0   3   1284080   387860108   POP
+41   Billie Eilish    bad guy   652   108.0   1   2931099   385813103   POP
+42   Morgan Wallen    Whiskey Glasses   1324   0.0   33   447546   385368118   COUNTRY
+43   Olivia Rodrigo    drivers license   613   99.0   1   6145601   381085710   POP
+44   Doja Cat    Kiss Me More   550   151.0   1   1846647   376965422   POP
+45   DaBaby    ROCKSTAR   549   164.0   1   1975668   373388283   RAP
+46   Lil Nas X    INDUSTRY BABY   472   267.0   1   2492612   373383279   SOUL
+47   The Weeknd    Starboy   785   141.0   1   2070596   368997138   POP
+48   Childish Gambino    Redbone   1075   42.0   8   950460   363834232   RAP
+49   Lil Mosey    Blueberry Faygo   603   152.0   2   1428849   355016723   RAP
+50   Meek Mill    Going Bad   638   117.0   2   1719834   349994217   RAP
+51   Khalid    Young Dumb & Broke   904   69.0   5   1045479   349563888   SOUL
+52   Harry Styles    As It Was   273   203.0   1   5953134   348668080   POP
+53   Ed Sheeran    Shape of You   618   96.0   1   2156546   348283656   POP
